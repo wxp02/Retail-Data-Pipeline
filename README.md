@@ -5,7 +5,7 @@ The Retail Data Pipeline is designed to process and transform retail sales data,
 
 ### Pipeline Overview
 ![image](https://github.com/user-attachments/assets/d6ee3280-ada7-4eb0-bc65-5fe10d6d7977)
-![Pipeline Diagram](![image](https://github.com/user-attachments/assets/b5967d34-e62d-40b1-a6af-0f8dbbf37e53)
+![image](https://github.com/user-attachments/assets/b5967d34-e62d-40b1-a6af-0f8dbbf37e53)
 
 ### Data Modeling
 ![image](https://github.com/user-attachments/assets/e24b1b54-c25f-4935-a9d5-20ab1db0dd0f)
