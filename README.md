@@ -37,3 +37,8 @@ Here are the sources for this project:
  - Run the pipeline manually (for testing individual tasks):
 	```bash 
 	airflow tasks test retail <task_name> 2024-01-01
+
+## Improvements
+To further enhance the Retail Data Pipeline, the following improvements could be implemented:
+- Specify dependencies between tasks
+- Implement Metabase for data visualization and analytics
