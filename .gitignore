@@ -11,3 +11,7 @@ airflow.cfg
 airflow.db
 include/gcp/service_account.json
 include/soda/configuration.yml
+include/dbt/dbt_packages
+include/dbt/target
+include/dbt/logs
+include/dbt/.user.yml

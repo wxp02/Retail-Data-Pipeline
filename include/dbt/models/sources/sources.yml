@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: retail
+    database: airflow-tutorial-440103
+
+    tables:
+      - name: raw_invoices
+      - name: country
